@@ -1,7 +1,8 @@
 # Supervised Learning Assignment 1
 
 
-in order to reproduce the results found in the assignment 1 paper, you must have python3 installed, and the packages installed as specified in the requirements.txt.
+in order to reproduce the results found in the assignment 1 paper, you must have python3 installed, and the packages installed as specified in the requirements.txt. You also must have a copy of the source code
+located at https://github.com/njbrake/supervised_learning
 
 In order to reproduce, first
 
